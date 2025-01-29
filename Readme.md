@@ -1,3 +1,8 @@
+-=(Athena_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SNK Athena (Beta):
 ![SNK logo](/docs/snk_corp_logo.png)
 ![Game Flyer](/docs/Athena_flyer.png)
